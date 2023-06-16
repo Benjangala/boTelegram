@@ -1,0 +1,2 @@
+To have an audio you just have to write this:
+/tts Hello I am an artificial intelligence(replace this message by the text you want to have in voice).

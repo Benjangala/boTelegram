@@ -1,0 +1,5 @@
+/img To create the images
+/simg To have the images coming from Google(Attention I do not retain the copyright on these images)
+/tts Allows you to convert given texts to audio
+/ask Allows you to answer questions in text format
+/askvo Allows you to answer questions with audio

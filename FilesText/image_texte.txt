@@ -1,0 +1,3 @@
+If you want to generate images via text please only write like this:
+/img "A cat in space" 
+Replace this text with the image you want to have.
